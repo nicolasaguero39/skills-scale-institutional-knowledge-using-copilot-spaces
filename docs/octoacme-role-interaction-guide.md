@@ -119,7 +119,7 @@ This guide provides a quick reference for understanding how different roles inte
 ## Best Practices for Cross-Role Collaboration
 
 1. **Clear Documentation**: All roles maintain clear, accessible documentation in shared spaces
-2. **Regular Sync Points**: Scheduled meetings ensure alignment without constant interruptions  
+2. **Regular Sync Points**: Scheduled meetings ensure alignment without constant interruptions
 3. **Defined Handoffs**: Clear criteria for when work transitions between roles
 4. **Feedback Loops**: Regular retrospectives include cross-role participation
 5. **Shared Accountability**: Success metrics reflect collaborative outcomes
