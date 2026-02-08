@@ -11,9 +11,9 @@ This guide provides a quick reference for understanding how different roles inte
 ### Business Analyst Interactions
 | Role | Interaction Type | Frequency | Purpose |
 |------|-----------------|-----------|---------|
-| Product Managers | Collaborative | Weekly | Translate product vision into detailed requirements |
+| Product Manager | Collaborative | Weekly | Translate product vision into detailed requirements |
 | Engineering Lead | Collaborative | Weekly | Ensure technical feasibility of requirements |
-| Project Managers | Coordinating | Bi-weekly | Align on timeline impacts and dependencies |
+| Project Manager | Coordinating | Bi-weekly | Align on timeline impacts and dependencies |
 | Stakeholders | Consultative | As needed | Gather inputs and validate requirements |
 | UX Designer | Collaborative | As needed | Align user requirements with design approaches |
 
@@ -21,15 +21,15 @@ This guide provides a quick reference for understanding how different roles inte
 | Role | Interaction Type | Frequency | Purpose |
 |------|-----------------|-----------|---------|
 | Engineering Lead | Collaborative | Daily | Coordinate on defect resolution and quality standards |
-| Product Owner | Consultative | Weekly | Align on acceptance criteria and priorities |
+| Product Manager | Consultative | Weekly | Align on acceptance criteria and priorities |
 | Developers | Collaborative | Daily | Code reviews and test automation collaboration |
-| Project Managers | Reporting | Weekly | Quality status updates and risk escalation |
+| Project Manager | Reporting | Weekly | Quality status updates and risk escalation |
 | UX Designer | Validating | Sprint cycles | Validate user experience and accessibility |
 
 ### Change Manager Interactions
 | Role | Interaction Type | Frequency | Purpose |
 |------|-----------------|-----------|---------|
-| Project Managers | Coordinating | Weekly | Coordinate change timelines and stakeholder management |
+| Project Manager | Coordinating | Weekly | Coordinate change timelines and stakeholder management |
 | Communications Lead | Collaborative | As needed | Develop messaging and stakeholder communications |
 | Business Analyst | Consultative | As needed | Understand process impacts and change requirements |
 | All Stakeholders | Communicative | Per change | Manage expectations and gather feedback |
@@ -45,21 +45,21 @@ This guide provides a quick reference for understanding how different roles inte
 ### Existing Role Interactions (for reference)
 
 #### Developers
-- **Product Managers**: Feature specifications and acceptance criteria (Weekly)
-- **Project Managers**: Sprint planning and status updates (Daily standups)
+- **Product Manager**: Feature specifications and acceptance criteria (Weekly)
+- **Project Manager**: Sprint planning and status updates (Daily standups)
 - **QA Lead**: Code reviews and testing coordination (Daily)
 - **UX Designer**: Design implementation (Sprint cycles)
 
-#### Product Managers  
+#### Product Manager  
 - **Developers**: Feature prioritization and trade-offs (Weekly)
-- **Project Managers**: Roadmap alignment and resource planning (Weekly)
+- **Project Manager**: Roadmap alignment and resource planning (Weekly)
 - **Business Analyst**: Requirements definition (Weekly)
 - **UX Designer**: User research and product vision (Weekly)
 - **Stakeholders**: Product updates and feedback (Monthly)
 
-#### Project Managers
+#### Project Manager
 - **All Roles**: Status updates, risk escalations, meeting facilitation (Weekly)
-- **Product Managers**: Timeline and scope alignment (Weekly)
+- **Product Manager**: Timeline and scope alignment (Weekly)
 - **Change Manager**: Change coordination (As needed)
 
 ## Communication Flow Patterns

@@ -100,9 +100,9 @@ Business Analysts bridge the gap between business needs and technical solutions.
 - Business impact analysis and feasibility discussions
 
 ### Key Interactions
-- **Product Managers**: Collaborates on defining product vision and translating it into detailed requirements
+- **Product Manager**: Collaborates on defining product vision and translating it into detailed requirements
 - **Engineering Lead**: Works together to ensure requirements are technically feasible and clearly understood
-- **Project Managers**: Coordinates on timeline impacts and dependency management
+- **Project Manager**: Coordinates on timeline impacts and dependency management
 - **Stakeholders**: Regular engagement to gather inputs and validate requirements
 
 ---
@@ -134,9 +134,9 @@ QA Leads oversee quality assurance activities across the project lifecycle. They
 
 ### Key Interactions
 - **Engineering Lead**: Daily collaboration on defect resolution and quality standards
-- **Product Owner**: Alignment on acceptance criteria and feature priorities
+- **Product Manager**: Alignment on acceptance criteria and feature priorities
 - **Developers**: Code review participation and test automation collaboration
-- **Project Managers**: Quality status reporting and risk escalation
+- **Project Manager**: Quality status reporting and risk escalation
 
 ---
 
@@ -166,7 +166,7 @@ Change Managers coordinate change initiatives and ensure smooth transitions with
 - Training sessions and support documentation
 
 ### Key Interactions
-- **Project Managers**: Close coordination on change timelines and stakeholder management
+- **Project Manager**: Close coordination on change timelines and stakeholder management
 - **Communications Lead**: Joint development of messaging and stakeholder communications
 - **Business Analyst**: Collaboration on process impacts and requirements for change
 - **All Stakeholders**: Regular engagement to manage expectations and gather feedback
@@ -199,7 +199,7 @@ UX Designers create intuitive, user-centered experiences by designing user journ
 - Accessibility and design standards documentation
 
 ### Key Interactions
-- **Product Owner**: Collaboration on product vision and user needs prioritization
+- **Product Manager**: Collaboration on product vision and user needs prioritization
 - **Developers**: Partnership on design implementation and technical constraints
 - **QA Lead**: Joint validation of user experience and accessibility compliance
 - **Business Analyst**: Alignment on user requirements and business objectives

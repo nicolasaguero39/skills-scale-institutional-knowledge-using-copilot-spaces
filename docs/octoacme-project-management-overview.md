@@ -19,6 +19,7 @@ Applies to all cross-functional projects that deliver product features, services
 - **Developers**: implement features, collaborate on design and testability.
 - **Business Analyst**: gathers and documents requirements, ensures alignment with business objectives.
 - **QA Lead**: oversees quality assurance, develops test strategies, validates deliverables.
+- **QA/Testing**: validate quality and acceptance criteria (team members working under QA Lead).
 - **UX Designer**: designs user journeys, ensures usability and accessibility standards.
 - **Change Manager**: coordinates change initiatives, manages stakeholder adoption.
 - **Stakeholders**: provide inputs and approvals.
