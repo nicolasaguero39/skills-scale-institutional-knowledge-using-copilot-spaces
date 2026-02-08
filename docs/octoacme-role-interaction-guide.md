@@ -37,7 +37,7 @@ This guide provides a quick reference for understanding how different roles inte
 ### UX Designer Interactions
 | Role | Interaction Type | Frequency | Purpose |
 |------|-----------------|-----------|---------|
-| Product Owner | Collaborative | Weekly | Align on product vision and user needs |
+| Product Manager | Collaborative | Weekly | Align on product vision and user needs |
 | Developers | Collaborative | Daily/Sprint | Partner on design implementation |
 | QA Lead | Validating | Sprint cycles | Joint validation of UX and accessibility |
 | Business Analyst | Consultative | As needed | Align on user requirements and business objectives |
@@ -81,7 +81,7 @@ This guide provides a quick reference for understanding how different roles inte
 
 ### Quality Assurance Flow
 1. **QA Lead** develops test strategy aligned with acceptance criteria
-2. **Product Owner** validates acceptance criteria
+2. **Product Manager** validates acceptance criteria
 3. **Developers** implement features with testability in mind
 4. **QA Lead** executes testing and reports on quality metrics
 5. **Engineering Lead** addresses defects and quality issues
@@ -99,16 +99,16 @@ This guide provides a quick reference for understanding how different roles inte
 **Path**: Change Manager → Project Manager → Stakeholders → Executive Sponsor
 
 ### Design Conflicts
-**Path**: UX Designer → Product Owner → Project Manager → Stakeholders
+**Path**: UX Designer → Product Manager → Project Manager → Stakeholders
 
 ## Quick Reference: Who to Contact When...
 
 | Need | Primary Contact | Secondary Contact |
 |------|----------------|-------------------|
 | Clarifying business requirements | Business Analyst | Product Manager |
-| Understanding acceptance criteria | QA Lead | Product Owner |
+| Understanding acceptance criteria | QA Lead | Product Manager |
 | Communicating organizational changes | Change Manager | Project Manager |
-| User experience questions | UX Designer | Product Owner |
+| User experience questions | UX Designer | Product Manager |
 | Technical feasibility | Engineering Lead | Developers |
 | Project status updates | Project Manager | Product Manager |
 | Feature prioritization | Product Manager | Business Analyst |

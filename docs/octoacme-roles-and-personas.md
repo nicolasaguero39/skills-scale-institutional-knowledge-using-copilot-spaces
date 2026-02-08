@@ -95,7 +95,7 @@ Business Analysts bridge the gap between business needs and technical solutions.
 
 ### Typical Communication
 - Requirements workshops and stakeholder interviews
-- Regular sync meetings with Product Owner and Engineering Lead
+- Regular sync meetings with Product Manager and Engineering Lead
 - Requirements documentation and user story refinement sessions
 - Business impact analysis and feasibility discussions
 
@@ -128,7 +128,7 @@ QA Leads oversee quality assurance activities across the project lifecycle. They
 
 ### Typical Communication
 - Daily coordination with Engineering Lead on quality issues
-- Test plan reviews with Product Owner and stakeholders
+- Test plan reviews with Product Manager and stakeholders
 - Defect triage meetings and status reports
 - Quality metrics reporting in sprint reviews
 
@@ -193,7 +193,7 @@ UX Designers create intuitive, user-centered experiences by designing user journ
 - Ensure design consistency across products
 
 ### Typical Communication
-- Design reviews with Product Owner and Engineering teams
+- Design reviews with Product Manager and Engineering teams
 - User research findings and usability test reports
 - Regular design critiques and iteration sessions
 - Accessibility and design standards documentation
