@@ -55,7 +55,10 @@ Navega a través de cada proceso detallado usando los enlaces a continuación:
   Capturar aprendizajes, generar elementos de acción y convertirlos en mejoras continuas.
 
 - **[Roles y Personas](./octoacme-roles-and-personas.md)**  
-  Definiciones detalladas de Desarrolladores, Product Managers, Project Managers y QA.
+  Definiciones detalladas de Desarrolladores, Product Managers, Project Managers, Business Analysts, QA Leads, Change Managers y UX Designers.
+
+- **[Guía de Interacción de Roles](./octoacme-role-interaction-guide.md)**  
+  Matriz de interacciones entre roles, flujos de comunicación y guía de referencia rápida para colaboración efectiva.
 
 ---
 
